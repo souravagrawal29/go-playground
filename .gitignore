@@ -1,0 +1,6 @@
+.env
+db
+
+
+# MacOs
+.DS_Store
